@@ -15,5 +15,8 @@ img1 = cv2.resize(img1, (300,400))
 img2 = cv2.resize(img2, (300,400))
 
 cv2.imshow('Display', img1)
+
+# 다음 두 행은 키보드 입력을 기다렸다가 모든 창을 끄고 종료하는 코드
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
