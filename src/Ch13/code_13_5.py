@@ -16,3 +16,4 @@ img2 = cv2.resize(img2, (300,400))
 
 cv2.imshow('Display', img1)
 cv2.waitKey(0)
+cv2.destroyAllWindows()
