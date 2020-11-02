@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt
 
 countries_df = pd.read_csv('d:/data/countries.csv', index_col = 0)
 
-# pie 모양으로 만들때 uncomment 하세요.
+# pie 모양 차트를 사용할 때 필요한 코드
 #countries_df['population'].plot(kind='pie')
-countries_df['population'].plot(kind='bar')
+# bar 차트를 사용할 때 필요한 코드
+countries_df['population'].plot(kind='bar', color=('b', 'darkorange', 'g', 'r', 'm') )
 plt.show()
