@@ -1,19 +1,9 @@
 import turtle
 
-colors = ["red", "purple", "blue", "green", "yellow", "orange" ]
 t = turtle.Turtle()
-
-turtle.bgcolor("black")
-
-# 거북이의 속도는 0으로 설정하면 최대가 된다. 
-t.speed(0)
-t.width(3)
-
-length = 10	  # 초기 선의 길이는 10으로 한다. 
-
-# while 반복문이다. 선의 길이가 500보다 작으면 반복한다.  
-while length < 500:	
-    t.forward(length)             # length만큼 전진한다. 
-    t.pencolor(colors[length%6])  # 선의 색상을 변경한다. 
-    t.right (89)                  # 89도 오른쪽으로 회전한다. 
-    length += 5                   # 선의 길이를 5만큼 증가시킨다.
+t.shape("turtle")
+i = 0
+while i < 5:        # 5개의 선분을 그리기 위하여 5회 반복
+    t.forward(50)   # 50 픽셀 길이의 선분을 그린다
+    t.right(144)    # 144도 거북을 회전시킨다
+    i = i + 1       # 변수 i를 1만큼 증가시킨다

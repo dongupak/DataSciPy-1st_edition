@@ -1,14 +1,6 @@
-import turtle 
-import random 
-t = turtle.Turtle() 
-t.shape("turtle") 
-angle = [0, 90, 180, 270]
+n = int(input("정수를 입력하시오: ")) 
+fact = 1 
+for i in range(1, n+1): 
+    fact = fact * i 
 
-t.forward(300)
-'''
-for i in range(300): 
-    length = random.randint(1, 100) 
-    t.forward(length) 
-    c = random.randint(0, 3) 
-    t.right(angle[c])
-'''
+print(n, "!은", fact, "이다.")

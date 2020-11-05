@@ -1,13 +1,11 @@
-import turtle 
-t = turtle.Turtle() 
-t.shape("turtle") 
- 
-s = turtle.textinput("도형그리기", "몇각형을 원하시나요:") 
-n = int(s) 
+import turtle
+import random
 
-s = turtle.textinput("도형그리기", "변의 길이를 입력하세요:") 
-l = int(s) 
- 
-for i in range(n): 
-    t.forward(l) 
-    t.left(360/n) 
+t = turtle.Turtle()
+t.shape("turtle")
+
+for i in range(30):
+    length = random.randint(1, 100)
+    t.forward(length)
+    angle = random.randint(-180, 180)
+    t.right(angle)
