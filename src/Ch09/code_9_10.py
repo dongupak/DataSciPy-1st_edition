@@ -1,6 +1,6 @@
 import re 
 
-f = open('./UNDHR.txt')     # 현재 폴더에 있는 파일을 읽어온다.
+f = open('d:/data/UNDHR.txt')     # 현재 폴더에 있는 파일을 읽어온다.
 
 for line in f: 
     line = line.rstrip()
