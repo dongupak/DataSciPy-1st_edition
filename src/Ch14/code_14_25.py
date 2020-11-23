@@ -3,11 +3,7 @@ import seaborn as sns    # 시각화를 위하여 Seaborn 라이브러리를 이
 import matplotlib.pyplot as plt
 import numpy as np
 
-life = pd.read_csv('./Life_expectancy.csv')
-life = life[['Life expectancy', 'Year', 'Alcohol',
-           'Percentage expenditure', 'Total expenditure',
-           'Hepatitis B', 'Measles', 'Polio', 'BMI', 'GDP',
-           'Thinness 1-19 years', 'Thinness 5-9 years']]
+life = pd.read_csv('d:/data/life_expectancy.csv')
 
 life.dropna(inplace = True)
 
