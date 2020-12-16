@@ -2,5 +2,5 @@
 ## 프로그램 코드와 자료를 제공합니다.
 
 <p align="center">
-  <img src="image/cover.png" width=450px>
+  <img src="image/cover.png" width=500px>
 </p>
