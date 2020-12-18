@@ -1,15 +1,21 @@
-def get_sum(start, end):  # start, end를 매개변수로하여 인자를 받는다
-    s = 0
-    for i in range(start, end + 1):  # start부터 end까지 정수의 합을 구함
-        s += i
-    return s  # start부터 end까지 수의 합을 반환한다
+def sort_num(n1, n2):  # 2개의 값을 받아오는 함수
+    if n1 < n2:
+        return n1, n2  # n1이 더 작으면 n1, n2 순서로 반환
+    else:
+        return n2, n1  # n2가 더 작으면 n2, n1 순서로 반환
 
 
-print(get_sum(1, 10))  # 1에서 10까지 정수의 합 55를 출력한다
+print(sort_num(110, 210))  # 110과 210을 함수의 인자로 전달하고 반환되는 값을 출력
+print(sort_num(2100, 80))
 
-x = get_sum(1, 10)  # 1과 10이 인자가 된다.
-print('x =', x)
 
-y = get_sum(1, 20)  # 1과 20이 인자가 된다.
-print('y =', y)
+def calc(n1, n2):
+    return n1 + n2, n1 - n2, n1 * n2, n1 / n2  # 덧셈, 뺄셈, 곱셈, 나눗셈 결과를 반환
 
+
+n1, n2 = 200, 100
+t1, t2, t3, t4 = calc(n1, n2)  # 네 개의 값을 반환받기 위해 4개의 변수를 사용함
+print(n1, '+', n2, '=', t1)
+print(n1, '-', n2, '=', t2)
+print(n1, '*', n2, '=', t3)
+print(n1, '/', n2, '=', t4)
