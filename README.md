@@ -22,6 +22,10 @@
 * [목차](https://github.com/dongupak/DataSciPy/blob/master/contents.md)
 : "따라하며 배우는 파이썬과 데이터 과학" 책의 목차를 제공합니다.
 
+# 책의 오류 및 오탈자
+* [오류](https://github.com/dongupak/DataSciPy/blob/master/errata-ver1.md)
+: "따라하며 배우는 파이썬과 데이터 과학" 책의 오탈자 목록을 제공합니다.
+
 ### 사전 지식
 
 이 저장소의 코드를 실행하기 위해서는 다음 웹 사이트에 접속하여 파이썬 IDLE를 다운받아 설치하여야 합니다.
