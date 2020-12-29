@@ -36,3 +36,7 @@ https://www.python.org/
 ```
 https://colab.research.google.com/
 ```
+책의 오류는 다음 이메일로 알려주십시오.
+```
+dongupak@gmail.com
+```
