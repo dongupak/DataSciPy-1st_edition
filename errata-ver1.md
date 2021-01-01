@@ -6,6 +6,26 @@
 # 오류
 ## 잘못된 코드 오류, 실행 결과 오류, 잘못된 설명, 잘못된 참조 번호(그림, 코드 등) 
 
+## 페이지 : 49쪽
+### 오류내용 : 원기둥의 부피를 계산하는 식 오류
+<pre>
+volume_of_cylinder = pi * radius * height
+</pre>
+* 수정 후
+<pre>
+volume_of_cylinder = pi * (radius ** 2) * height
+</pre>
+
+## 페이지 : 62쪽
+### 오류내용 : 그림의 오른쪽 input()은 int()의 오타임
+<pre>
+input()
+</pre>
+* 수정 후
+<pre>
+int()
+</pre>
+
 ## 페이지 : 72쪽
 ### 오류내용 : 표의 지수 결과값에서 72가 아닌 7의 2승입니다.
 <pre>
