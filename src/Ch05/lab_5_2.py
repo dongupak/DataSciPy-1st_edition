@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# LAB5-2 반복을 사용하여 도형을 그리자, 123쪽
+#
 import turtle
 
 t = turtle.Turtle()
@@ -17,3 +21,4 @@ t.pendown()          # 이동을 마치면 펜은 내리도록 한다
 for i in range(4):
     t.forward(100)
     t.left(360 / 4)   # 360/4를 통해 90도 왼쪽으로 틀기
+turtle.done()

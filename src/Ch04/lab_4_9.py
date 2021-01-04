@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# LAB4-9 입력을 받아서 도형 그리기를 해보자, 111쪽
+#
 import turtle
 t = turtle.Turtle() 
 t.shape("turtle") 
