@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 13.6 이미지에 마스크를 씌워볼까, 346쪽
+#
 import cv2
 mask_image = cv2.imread('d:/data/mask_circle.png')
 back_image = cv2.imread('d:/data/iceberg.png')

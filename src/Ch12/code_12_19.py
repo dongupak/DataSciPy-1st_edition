@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 12.19 데이터 구조를 변경해 보자, 328쪽
+#
 import pandas as pd 
 
 df_1 = pd.DataFrame({'item' : ['ring0', 'ring0', 'ring1', 'ring1'], 

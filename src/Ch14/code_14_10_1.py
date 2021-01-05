@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 14.10 체질량지수와 당뇨수치는 어떤 상관관계가 있을까, 379쪽
+#
 from sklearn import datasets 
 from sklearn import linear_model 
 import numpy as np 

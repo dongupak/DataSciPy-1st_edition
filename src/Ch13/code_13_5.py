@@ -1,4 +1,9 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 13.5 합성 사진을 제작해 보자, 345쪽
+#
 import cv2
+
 global img1, img2     # 두 이미지를 프로그램의 전체에서 사용할 수 있도록 함
 
 def on_change_weight(x):   # 트랙바가 움직이게 되면 이 함수가 호출된다
@@ -19,4 +24,3 @@ cv2.imshow('Display', img1)
 # 다음 두 행은 키보드 입력을 기다렸다가 모든 창을 끄고 종료하는 코드
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-

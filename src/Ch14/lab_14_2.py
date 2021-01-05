@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# LAB14-2 데이터 80%로 학습하여 예측한 결과와 실제 데이터 비교, 382쪽
+#
 import numpy as np 
 from sklearn import linear_model  # scikit-learn 모듈을 가져온다
 from sklearn import datasets

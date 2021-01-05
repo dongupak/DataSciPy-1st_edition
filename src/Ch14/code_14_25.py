@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 14.25 간단한 회귀모델을 만들자, 395쪽
+#
 import pandas as pd 
 import seaborn as sns    # 시각화를 위하여 Seaborn 라이브러리를 이용함
 import matplotlib.pyplot as plt

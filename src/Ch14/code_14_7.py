@@ -1,3 +1,8 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 14.7 선형 회귀 학습결과를 확인하고 예측하기, 374쪽
+#
+
 #14-6의 코드
 import numpy as np 
 from sklearn import linear_model  # scikit-learn 모듈을 가져온다

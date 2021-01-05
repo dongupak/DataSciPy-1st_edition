@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 14.9 사이킷런의 당뇨병 예제와 학습 데이터 생성, 377쪽
+#
 import matplotlib.pyplot as plt 
 import numpy as np 
 from sklearn.linear_model import LinearRegression 

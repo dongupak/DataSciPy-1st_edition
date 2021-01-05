@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 11.12 겹쳐진 히스토그램도 그리자 : 다중 히스토그램, 295쪽
+#
 import numpy as np 
 import matplotlib.pyplot as plt 
  

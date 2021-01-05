@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 13.4 OpenCV로 이미지 다루어 보자, 344쪽
+#
 import cv2
 
 img = cv2.imread('d:/data/mandrill.png', 1)

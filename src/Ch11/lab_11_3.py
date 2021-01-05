@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# LAB11-3 정규분포로 생성된 난수를 눈으로 확인하기, 296쪽
+#
 import numpy as np 
 import matplotlib.pyplot as plt 
  

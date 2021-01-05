@@ -1,6 +1,7 @@
-# 12.5 CSV에서 원하는 데이터를 뽑아 보자
-## weather.csv 파일을 통해 날씨 데이터 읽어오기
-
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# LAB12-1 울릉도는 몇 월에 바람이 가장 강할까?, 311쪽
+#
 import csv
 import matplotlib.pyplot as plt 
  

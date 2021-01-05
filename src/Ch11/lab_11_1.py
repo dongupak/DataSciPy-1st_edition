@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# LAB11-1 수학 함수도 쉽게 그려보자, 286쪽
+#
 import matplotlib.pyplot as plt
 
 x = [x for x in range(-10, 10)] 

@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 14.19 새로운 꽃에 대해서 모델을 적용하고 분류해 보자, 389쪽
+#
 from sklearn.datasets import load_iris 
 from sklearn.model_selection import train_test_split 
 from sklearn.neighbors import KNeighborsClassifier 

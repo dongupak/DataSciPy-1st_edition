@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 11.9 데이터를 점으로 표현하는 산포도 그래프 그리기, 292쪽
+#
 import matplotlib.pyplot as plt 
 import numpy as np 
  

@@ -1,3 +1,7 @@
+#
+# 따라하며 배우는 파이썬과 데이터과학(생능출판사 2020)
+# 14.8 선형회귀로 예측하기 : 키와 몸무게는 상관관계가 있을까, 375쪽
+#
 import matplotlib.pyplot as plt
 import numpy as np 
 from sklearn import linear_model  # scikit-learn 모듈을 가져온다
