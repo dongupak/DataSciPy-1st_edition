@@ -12,7 +12,7 @@ def n_polygon(n, length):
         t.forward(length)
         t.left(360 // n)  # 정수 나눗셈은 //으로 한다.
 
-for i in range(10):
-    t.left(20)
-    n_polygon(6, 100)
+for i in range(20):
+    t.left(30)
+    n_polygon(4, 100)
 turtle.done()

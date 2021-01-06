@@ -8,3 +8,7 @@ def calculate_area(radius):
 
 c_area = calculate_area(5.0)  # calculate_are() 함수가 계산한 값을 c_area에 저장
 print(c_area)
+c_area = calculate_area(10.0)  # calculate_are() 함수가 계산한 값을 c_area에 저장
+print(c_area)
+area_sum = calculate_area(5.0) + calculate_area(10.0)
+print(area_sum)

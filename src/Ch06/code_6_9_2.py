@@ -3,11 +3,10 @@
 # 6.9 함수 안에서 전역변수 사용하기 : global 키워드, 156쪽
 #
 def calculate_area(radius):
-    global area
     area = 3.14 * radius ** 2
-    return
+    return area
 
 area = 0
 r = float(input("원의 반지름: "))
-calculate_area(r)
+area = calculate_area(r)
 print(area)

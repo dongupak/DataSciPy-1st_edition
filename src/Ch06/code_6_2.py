@@ -9,3 +9,5 @@ def print_address():
 
 
 print_address()  # 정의한 함수를 호출
+print_address()  # 정의한 함수를 호출
+print_address()  # 정의한 함수를 호출
