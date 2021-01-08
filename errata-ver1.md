@@ -54,6 +54,26 @@ int()
 >>> A.symmetric_difference(B)
 </pre>
 
+## 페이지 : 279쪽
+### 오류내용 : 연습문제 10.5의 코드 오류, 32개의 값을 생성해야 하므로 arange()의 인자가 24가 아닌 32임
+<pre>
+a = np.arange(0, 24).range(4, 4, 2)
+</pre>
+* 수정 후
+<pre>
+a = np.arange(0, 32).range(4, 4, 2)
+</pre>
+
+## 페이지 : 288쪽
+### 오류내용 : x, y, z를 plotting하는 함수에서 세번째 함수의 인자가 잘못됨
+<pre>
+plt.plot(x, y, label='qubic')
+</pre>
+* 수정 후
+<pre>
+plt.plot(x, z, label='qubic')
+</pre>
+
 # 오탈자
 ## 단순 오자와 탈자를 알려드립니다.
 
