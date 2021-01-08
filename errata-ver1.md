@@ -17,7 +17,7 @@ volume_of_cylinder = pi * (radius ** 2) * height
 </pre>
 
 ## 페이지 : 62쪽
-### 오류내용 : 그림의 오른쪽 input()은 int()의 오타임
+### 오류내용 : 그림의 오른쪽 input()은 int()의 오타
 <pre>
 input()
 </pre>
