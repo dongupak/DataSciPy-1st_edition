@@ -31,7 +31,7 @@ dongupak@gmail.com
 ```
 
 # 강의 계획서
-* [강의계획서](https://github.com/dongupak/DataSciPy/blob/master/.md)
+* [강의계획서](https://github.com/dongupak/DataSciPy/blob/master/syllabus.md)
 : "따라하며 배우는 파이썬과 데이터 과학" 책을 이용하여 강의를 하시는 강사님을 위한 16주차 강의 계획서 예시
 
 ### 사전 지식
