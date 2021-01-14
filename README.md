@@ -25,6 +25,14 @@
 # 책의 오류 및 오탈자
 * [오류](https://github.com/dongupak/DataSciPy/blob/master/errata-ver1.md)
 : "따라하며 배우는 파이썬과 데이터 과학" 책의 오탈자 목록을 제공합니다.
+책의 오류는 다음 이메일로 알려주십시오.
+```
+dongupak@gmail.com
+```
+
+# 강의 계획서
+* [강의계획서](https://github.com/dongupak/DataSciPy/blob/master/.md)
+: "따라하며 배우는 파이썬과 데이터 과학" 책을 이용하여 강의를 하시는 강사님을 위한 16주차 강의 계획서 예시
 
 ### 사전 지식
 
@@ -35,8 +43,4 @@ https://www.python.org/
 혹은 다음의 구글 colab 웹사이트에 접속하여(구글 계정이 필요함) 노트북 환경에서 파이썬 코딩을 할 수 있습니다.
 ```
 https://colab.research.google.com/
-```
-책의 오류는 다음 이메일로 알려주십시오.
-```
-dongupak@gmail.com
 ```
