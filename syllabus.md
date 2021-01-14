@@ -1,6 +1,6 @@
 ## "따라하며 배우는 파이썬과 데이터 과학" 강의 계획서 예시
 <p align="center">
-  <img src="github-image/data-sci-py-book.jpg" width=450px>
+  <img src="../image/cover.png" width=500px>
 </p>
 
 ## 강의 교재 
