@@ -102,6 +102,9 @@ s += 1
 <pre>
 s += i
 </pre>
+<p align="center">
+  <img src="image/pic6.6.png" width=500px>
+</p>
 
 ## 페이지 : 209쪽
 ### 오류 내용 : 대칭차집합 메소드의 이름은 symmetric_difference() 입니다.
