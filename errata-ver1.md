@@ -25,6 +25,10 @@ input()
 <pre>
 int()
 </pre>
+<p align="center">
+  <img src="image/pic2.15.png" width=500px>
+</p>
+
 
 ## 페이지 : 72쪽
 ### 오류 내용 : 표의 지수 결과값에서 72가 아닌 7의 2승입니다.
