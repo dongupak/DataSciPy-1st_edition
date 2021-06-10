@@ -12,7 +12,7 @@
 #### 셋째, opencv로 이미지 처리기법을 익힐 수 있습니다.
 #### 넷째, 구글의 최신 텐서플로 2.x로 익히는 기계학습, 딥러닝 학습법을 담고 있습니다.
 #### 다섯째, 저자의 무료 유튜브 강의가 제공됩니다.
-
+##### https://www.youtube.com/playlist?list=PL2P1Vm9k53HOD_lesbnzAS51t71QeOPms
 <p align="center">
   <img src="image/cover.png" width=500px>
 </p>
