@@ -1,14 +1,14 @@
 # 따라하며 배우는 파이썬과 데이터과학 소스 코드 - 코랩 접속 주소
 
-### 1장 소스 코드
+### 1장 "데이터 과학과 파이썬의 세계로" 소스 코드
 https://colab.research.google.com/drive/1FWcl48s7Mr4p9G-sGv80Fj7TIeb1YaN0?usp=sharing
-### 2장 소스 코드
+### 2장 "값을 담아 다루어 보자" 소스 코드
 https://colab.research.google.com/drive/1tl4VJFoCQ2A5nxAH77cRBZ6oizipyJnL?usp=sharing
-### 3장 소스 코드
+### 3장 "연산자로 계산을 해 보자" 소스 코드
 https://colab.research.google.com/drive/1iVCx5CMLPq30i1Af1C2Wh5ZX12J9Z9qi?usp=sharing
-### 4장 소스 코드
+### 4장 "조건을 따져 실행해보자" 소스 코드
 https://colab.research.google.com/drive/1P47_pOO_X9-QGZixzns1FWzd4IKAPB5_?usp=sharing
-### 5장 소스 코드
+### 5장 "여러 번 반복하는 일을 하자" 소스 코드
 https://colab.research.google.com/drive/1QpI2CLeayyAzdu7SK5YwhaQpqFyisqND?usp=sharing
 ### 6장 소스 코드
 https://colab.research.google.com/drive/1Q9ZGoJQ-AbRnVB1ZOIAmLKA_hck2YMmf?usp=sharing
