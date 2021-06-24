@@ -1,7 +1,6 @@
 # 따라하며 배우는 파이썬과 데이터과학 소스 코드 - 코랩 접속 주소
 
-### 1장  소스 코드
-#### "데이터 과학과 파이썬의 세계로"
+### 1장  소스 코드 : 데이터 과학과 파이썬의 세계로
 https://colab.research.google.com/drive/1FWcl48s7Mr4p9G-sGv80Fj7TIeb1YaN0?usp=sharing
 ### 2장 "값을 담아 다루어 보자" 소스 코드
 https://colab.research.google.com/drive/1tl4VJFoCQ2A5nxAH77cRBZ6oizipyJnL?usp=sharing
