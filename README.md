@@ -30,6 +30,10 @@
 dongupak@gmail.com
 ```
 
+# 책의 소스코드(colab 주소)
+* [소스코드](https://github.com/dongupak/DataSciPy/blob/master/src/)
+: "따라하며 배우는 파이썬과 데이터 과학" 책의 소스코드 colab 페이지로 안내합니다
+
 # 강의 계획서
 * [강의계획서](https://github.com/dongupak/DataSciPy/blob/master/syllabus.md)
 : "따라하며 배우는 파이썬과 데이터 과학" 책을 이용하여 강의를 하시는 강사님을 위한 16주차 강의 계획서 예시
