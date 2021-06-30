@@ -27,12 +27,12 @@
 : "따라하며 배우는 파이썬과 데이터 과학" 책의 오탈자 목록을 제공합니다.
 책의 오류는 다음 이메일로 알려주십시오.
 ```
-dongupak@gmail.com
+    dongupak@gmail.com
 ```
 
-# 책의 소스코드(colab 주소)
+# 책의 소스코드(colab 주소, .py 파일, ipynb 파일)
 * [소스코드](https://github.com/dongupak/DataSciPy/blob/master/src/)
-: "따라하며 배우는 파이썬과 데이터 과학" 책의 소스코드 colab 페이지로 안내합니다
+: "따라하며 배우는 파이썬과 데이터 과학" 책의 소스코드가 .py, .ipynb, colab 페이지를 통해서 제공됩니다
 
 # 강의 계획서
 * [강의계획서](https://github.com/dongupak/DataSciPy/blob/master/syllabus.md)
