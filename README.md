@@ -14,7 +14,7 @@
 #### 다섯째, 저자의 무료 유튜브 강의가 제공됩니다.
 ##### https://www.youtube.com/playlist?list=PL2P1Vm9k53HOD_lesbnzAS51t71QeOPms
 <p align="center">
-  <img src="image/Py_Data_Sci_book.png" width=300px>
+  <img src="image/Py_Data_Sci_book.jpeg" width=300px>
 </p>
 
 ***
