@@ -25,7 +25,8 @@
 ## 함께 보면 더 좋은 책
 * 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 새종도서 학술부문 선정
 * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
-
+* 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
+* [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
 <p align="center">
   <img src="image/Prime_Python_book.png" width=200px>
 </p>
