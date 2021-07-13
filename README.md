@@ -14,7 +14,7 @@
 #### 다섯째, 저자의 무료 유튜브 강의가 제공됩니다.
 ##### https://www.youtube.com/playlist?list=PL2P1Vm9k53HOD_lesbnzAS51t71QeOPms
 <p align="center">
-  <img src="image/cover.png" width=500px>
+  <img src="image/Py_Data_Sci_book.png" width=300px>
 </p>
 
 ***
@@ -27,7 +27,7 @@
 * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
 
 <p align="center">
-  <img src="image/BB56B4F0-484E-4B5E-8649-EA827AF9271B.jpeg" width=200px>
+  <img src="image/Prime_Python_book.png" width=200px>
 </p>
 
 ***
