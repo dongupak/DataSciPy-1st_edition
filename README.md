@@ -12,7 +12,7 @@
 #### 셋째, opencv로 이미지 처리기법을 익힐 수 있습니다.
 #### 넷째, 구글의 최신 텐서플로 2.x로 익히는 기계학습, 딥러닝 학습법을 담고 있습니다.
 #### 다섯째, 저자의 무료 유튜브 강의가 제공됩니다.
-    * https://www.youtube.com/playlist?list=PL2P1Vm9k53HOD_lesbnzAS51t71QeOPms
+* https://www.youtube.com/playlist?list=PL2P1Vm9k53HOD_lesbnzAS51t71QeOPms
 <p align="center">
   <img src="image/Py_Data_Sci_book.jpeg" width=300px>
 </p>
@@ -56,14 +56,12 @@
 ### 사전 지식
 
 이 저장소의 코드를 실행하기 위해서는 다음 웹 사이트에 접속하여 파이썬 IDLE를 다운받아 설치하여야 합니다.
-```
-https://www.python.org/
-```
-혹은 다음의 구글 colab 웹사이트에 접속하여(구글 계정이 필요함) 노트북 환경에서 파이썬 코딩을 할 수 있습니다.
-```
-https://colab.research.google.com/
-```
+   * https://www.python.org/
 
+혹은 다음의 구글 colab 웹사이트에 접속하여(구글 계정이 필요함) 노트북 환경에서 파이썬 코딩을 할 수 있습니다.
+   * https://colab.research.google.com/
+
+*** 
 # 책의 LAB과 연습문제 정답지 제공에 관하여
 
 이 책에는 많은 LAB문제와 연습문제가 제공됩니다. 저자들이 모든 문제에 대해 답을 만들어 보았지만, 이것은 문제의 유효성을 검증하기 위한 것일 뿐입니다.  
