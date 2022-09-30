@@ -4,6 +4,7 @@
 https://colab.research.google.com/drive/1FWcl48s7Mr4p9G-sGv80Fj7TIeb1YaN0?usp=sharing
 ### 2장 소스 코드 : 값을 담아 다루어 보자
 https://colab.research.google.com/drive/1tl4VJFoCQ2A5nxAH77cRBZ6oizipyJnL?usp=sharing
+https://colab.research.google.com/drive/1p2uQFZ9csygq66fbRVAHoZKb1a8QLUr_?usp=sharing
 ### 3장 소스 코드 : 연산자로 계산을 해 보자
 https://colab.research.google.com/drive/1iVCx5CMLPq30i1Af1C2Wh5ZX12J9Z9qi?usp=sharing
 ### 4장 소스 코드 : 조건을 따져 실행해보자
